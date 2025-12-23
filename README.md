@@ -34,4 +34,4 @@ Nova vaga aberta: <titulo> - <local>
 ```
 
 ## Autor
-Matheus – Full Stack / Automação / IA
+Mitsuo – Full Stack / Automação / IA
